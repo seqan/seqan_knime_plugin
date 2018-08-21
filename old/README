@@ -1,0 +1,36 @@
+1. Set the following environment variables under config.sh
+    - WORKING_DIR=the working directory in which the following directories are located.
+    - 	scripts (directory containing scripts)
+    - 	GenericKnimeNodes (a git repository for GenericKnimeNodes)
+    - 	seqan (a git repository for SeqAn)
+     
+    - KNIME_SDK=a path to a knime sdk
+    
+    - BASE_PLUGIN_PATH=a path to git repository for GenericKnimeNodes
+    - SEQAN_SOURCE=a path to git repository for GenericKnimeNodes SeqAn
+     
+    - PLUGIN_CENTRAL_HOST=the host at which the plugins from several platforms will sent to
+    - SEQAN_BUILD=directory at which seqan applications are built
+    - PLUGIN_SOURCE_LOCAL=directory at which sources for KNIME plugins are built at (Current Platform)
+    - PLUGIN_CENTRAL_PATH=directory at which sources for KNIME plugins are collected at (multiple Platform)
+    - PLUGIN_BUILD==directory at which KNIME plugins are built at (multiple Platform)
+    - REMOTE_TARGET=ftp directory at which KNIME plugins kept for retrival by jenkins from KNIME
+     
+    - KNIME_SDK=a path to a knime sdk
+    - CXX=c++ compiler to use
+    - CC=c compiler to use
+
+
+2. Build a specific version of seqan
+    ./build-seqan.sh [TAG]
+    where TAG=a git tag for seqan  [default=master]
+    (eg ./build-seqan.sh seqan-v1.4.2 will checkout tagged version 1.4.2)2. Build a specific version of seqan
+
+
+3. Build plugin sources for both SeqAn and external NGS applications
+	./build-plugin.sh [GKN_BRANCH_TO_USE] [KNIME_VERSION]
+    where GKN_BRANCH_TO_USE=Which branch of GenericKnimeNodes to use for building the knime plugins
+                            It is critical to select the same branch as its specified in the jenkins comfigurations
+                            of GenericKnimeNodes for the specified knime version
+          KNIME_VERSION=To which version of knime the plugins are bing built
+	(eg ./build-plugin.sh origin/feature/knime-2_10 2.11)

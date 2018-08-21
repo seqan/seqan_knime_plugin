@@ -1,0 +1,58 @@
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+mkdir: cannot create directory ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64’: Disk quota exceeded
+
+App Name: alf
+The lattes version found was:  v1.1.9
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/alf-1.1.9-*/bin/*’: No such file or directory
+
+App Name: fx_tools
+The lattes version found was:  v0.2.9
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fx_tools-0.2.9-*/bin/*’: No such file or directory
+
+App Name: insegt
+The lattes version found was:  v1.1.9
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/insegt-1.1.9-*/bin/*’: No such file or directory
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-*/bin/*’: No such file or directory
+
+App Name: searchjoin
+The lattes version found was:  v0.5.7
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/searchjoin-0.5.7-*/bin/*’: No such file or directory
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: cannot stat ‘/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-*/bin/*’: No such file or directory
+
+App Name: stellar
+The lattes version found was:  v1.4.10
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_p

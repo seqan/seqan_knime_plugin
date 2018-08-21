@@ -1,0 +1,489 @@
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+
+App Name: alf
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/bin/razers2  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/README  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/genome.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/reads.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/reads2.fa  
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/bin/seqcons  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/README  
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: gustaf
+The lattes version found was:  v1.0.10
+ZIP file /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+ZIP file /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.12
+ZIP file /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: razers3
+The lattes version found was:  v3.5.8
+ZIP file /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: tree_recon
+The lattes version found was:  v1.4.8
+ZIP file /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: bs_tools
+The lattes version found was:  v0.1.10
+ZIP file /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: masai
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/bin/masai_output_pe  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/bin/masai_indexer  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/bin/masai_output_se  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/bin/masai_mapper  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-Linux-x86_64/README  
+
+App Name: pair_align
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-Linux-x86_64/bin/seqan_flexbar  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-Linux-x86_64/README  
+
+App Name: sgip
+The lattes version found was:  v1.4.8
+ZIP file /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: sak
+The lattes version found was:  v0.4.8
+ZIP file /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+ZIP file /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.tar.bz2 to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: yara
+The lattes version found was:  v0.9.11
+ZIP file /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: dfi
+The lattes version found was:  v2.1.10
+ZIP file /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: mason2
+The lattes version found was:  v2.0.9
+ZIP file /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: rabema
+The lattes version found was:  v1.2.10
+ZIP file /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.8
+ZIP file /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: snp_store
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: fiona
+The lattes version found was:  v0.2.10
+ZIP file /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: micro_razers
+The lattes version found was:  v1.0.11
+ZIP file /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: samcat
+The lattes version found was:  v0.3.8
+ZIP file /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.8
+ZIP file /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: splazers
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+---------------------------------------------------
+Zipping Linux-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip
+---------------------------------------------------
+/buffer/ag_abi/knime_packaging/seqan/binaries/Linux-x86_64 /group/ag_abi/SeqAn/knime_packaging
+zip I/O error: No such file or directory
+zip error: Could not create output file (/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip)
+/group/ag_abi/SeqAn/knime_packaging
+
+---------------------------------------------------
+Generating CTD files from Linux-x86_64 executables
+---------------------------------------------------
+alf: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//alf.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//alf.ctd
+bam2roi: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//bam2roi.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//bam2roi.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/bed_sort.sh: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//bed_sort.sh.ctd
+bisar: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//bisar.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//bisar.ctd
+casbar: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//casbar.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//casbar.ctd
+compute_gain: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//compute_gain.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//compute_gain.ctd
+dfi: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//dfi.ctd
+Exiting ...
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//dfi.ctd
+fiona: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//fiona.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//fiona.ctd
+four2three: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//four2three.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//four2three.ctd
+fx_bam_coverage: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//fx_bam_coverage.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//fx_bam_coverage.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/gff_sort.sh: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//gff_sort.sh.ctd
+gustaf: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//gustaf.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//gustaf.ctd
+gustaf_mate_joining: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//gustaf_mate_joining.ctd
+Error parsing command line, please check correct number and values of input parameters!
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//gustaf_mate_joining.ctd
+insegt: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//insegt.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//insegt.ctd
+lambda: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//lambda.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//lambda.ctd
+lambda_indexer: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//lambda_indexer.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//lambda_indexer.ctd
+****************************** WARNING ********************************
+* Masai is not maintained anymore. Please, use Yara instead of Masai. *
+* See http://www.seqan.de/projects/yara for more information.         *
+***********************************************************************
+
+masai_indexer: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_indexer.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_indexer.ctd
+****************************** WARNING ********************************
+* Masai is not maintained anymore. Please, use Yara instead of Masai. *
+* See http://www.seqan.de/projects/yara for more information.         *
+***********************************************************************
+
+masai_mapper: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_mapper.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_mapper.ctd
+****************************** WARNING ********************************
+* Masai is not maintained anymore. Please, use Yara instead of Masai. *
+* See http://www.seqan.de/projects/yara for more information.         *
+***********************************************************************
+
+masai_output_pe: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_output_pe.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_output_pe.ctd
+****************************** WARNING ********************************
+* Masai is not maintained anymore. Please, use Yara instead of Masai. *
+* See http://www.seqan.de/projects/yara for more information.         *
+***********************************************************************
+
+masai_output_se: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_output_se.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//masai_output_se.ctd
+mason_frag_sequencing: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_frag_sequencing.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_frag_sequencing.ctd
+mason_genome: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_genome.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_genome.ctd
+mason_materializer: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_materializer.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_materializer.ctd
+mason_methylation: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_methylation.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_methylation.ctd
+mason_simulator: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_simulator.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_simulator.ctd
+mason_splicing: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_splicing.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_splicing.ctd
+mason_variator: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_variator.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//mason_variator.ctd
+micro_razers: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//micro_razers.ctd
+Exiting ...
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//micro_razers.ctd
+pair_align: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//pair_align.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//pair_align.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/plot.awk: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//plot.awk.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/ps2pswLinks.gawk: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//ps2pswLinks.gawk.ctd
+rabema_build_gold_standard: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_build_gold_standard.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_build_gold_standard.ctd
+rabema_evaluate: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_evaluate.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_evaluate.ctd
+rabema_prepare_sam: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_prepare_sam.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//rabema_prepare_sam.ctd
+razers2: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//razers2.ctd
+Exiting ...
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//razers2.ctd
+razers3: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//razers3.ctd
+Exiting ...
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//razers3.ctd
+roi_feature_projection: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_feature_projection.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_feature_projection.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/roi_plot_9.sh: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_plot_9.sh.ctd
+roi_plot_thumbnails: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_plot_thumbnails.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_plot_thumbnails.ctd
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: line 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/roi_sort.sh: Permission denied
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//roi_sort.sh.ctd
+join: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//s4_join.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//s4_join.ctd
+search: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//s4_search.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//s4_search.ctd
+sak: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sak.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sak.ctd
+sam2matrix: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sam2matrix.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sam2matrix.ctd
+samcat: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//samcat.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//samcat.ctd
+seqan_flexbar: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqan_flexbar.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqan_flexbar.ctd
+seqan_tcoffee: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqan_tcoffee.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqan_tcoffee.ctd
+seqcons: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqcons.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//seqcons.ctd
+sgip: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sgip.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//sgip.ctd
+slimm: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//slimm.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//slimm.ctd
+snp_store: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//snp_store.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//snp_store.ctd
+splazers: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//splazers.ctd
+Exiting ...
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//splazers.ctd
+stellar: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//stellar.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//stellar.ctd
+tree_recon: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//tree_recon.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//tree_recon.ctd
+yara_indexer: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//yara_indexer.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//yara_indexer.ctd
+yara_mapper: Unable to create ctd file: /buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//yara_mapper.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//yara_mapper.ctd
+
+===================================================
+Gathering Mac-x86_64 binaries
+===================================================
+
+App Name: alf
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/bin/alf  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/example/small.fasta  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-Mac-x86_64/README  
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.10-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.10-Mac-x86_64/bin/fx_bam_coverage  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.10-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.10-Mac-x86_64/README  
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/bin/insegt  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/example/annoOutput.gff  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/example/annotations.gff  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/example/readOutput.gff  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/example/tupleOutput.gff  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-Mac-x86_64/README  
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/bin/razers2  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/example/genome.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/example/reads.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/example/reads2.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-Mac-x86_64/README  
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.8-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.8-Mac-x86_64/bin/s4_join  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.8-Mac-x86_64/bin/s4_search  
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-Mac-x86_64/bin/seqcons  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-Mac-x86_64/README  
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/bin/stellar  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/example/NC_001474.fasta  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/example/NC_001477.fasta  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/example/reads.fasta  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-Mac-x86_64/README  
+
+App Name: gustaf
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/bin/gustaf  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/bin/gustaf_mate_joining  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/example/adeno.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/example/adeno_modified.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/example/adeno_modified_reads.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/example/stellar.gff  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-Mac-x86_64/README  
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/bin/lambda  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/bin/lambda_indexer  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/lambda/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/lambda/LICENSE-AGPL3.rst  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/lambda/LICENSE-BSD.rst  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/lambda/LICENSE.rst  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-Darwin-x86_64/share/doc/lambda/README.rst  
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.12
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/bam2roi  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/bed_sort.sh  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/gff_sort.sh  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/plot.awk  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/ps2pswLinks.gawk  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/roi_feature_projection  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/roi_plot_9.sh  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/roi_plot_thumbnails  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/bin/roi_sort.sh  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/example/dmel.bed  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/example/dmel.gtf  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/example/example.bam  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/LICENSE  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/R/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/R/ngsroi_0.1.tar.gz  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/R/ngsroi_0.1.zip  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-Mac-x86_64/README  
+
+App Name: razers3
+The lattes version found was:  v3.5.8
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/bin/razers3  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/example/genome.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/example/reads.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/example/reads2.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-Mac-x86_64/README  
+
+App Name: tree_recon
+The lattes version found was:  v1.4.8
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/bin/tree_recon  
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/example/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/example/example.dist  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-Mac-x86_64/README  
+
+App Name: bs_tools
+The lattes version found was:  v0.1.10
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Mac-x86_64.zip
+   creating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/bin/
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/bin/bisar  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/bin/casbar  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/bin/four2three  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-Mac-x86_64/README  

@@ -1,0 +1,48 @@
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+
+App Name: alf
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/bin/razers2  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/README  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/genome.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/reads.fa  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-Linux-x86_64/example/reads2.fa  
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/bin/seqcons  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/LICENSE  
+  inflating: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-Linux-x86_64/README  
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.

@@ -1,0 +1,1744 @@
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64“ kann nicht angelegt werden: Der zugewiesene Plattenplatz (Quota) ist überschritten
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64“ kann nicht angelegt werden: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+App Name: alf
+
+App Name: alf
+The lattes version found was:  v1.1.9
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+The lattes version found was:  v1.1.9
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+
+App Name: fx_tools
+The lattes version found was:  v0.2.9
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+
+App Name: insegt
+The lattes version found was:  v1.1.9
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+
+App Name: searchjoin
+The lattes version found was:  v0.5.7
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v0.5.7
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden: Datei oder Verzeichnis nicht gefunden
+
+
+App Name: stellar
+
+App Name: stellar
+The lattes version found was:  v1.4.10
+The lattes version found was:  v1.4.10
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+The lattes version found was:  v1.0.9
+The lattes version found was:  v1.0.9
+ZIP file /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+
+App Name: lambda
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+The lattes version found was:  v1.9.3
+ZIP file /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/lambda-1.9.3-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/lambda-1.9.3-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: ngs_roi
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.11
+ZIP file /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v0.2.11
+ZIP file /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+
+App Name: razers3
+The lattes version found was:  v3.5.7
+The lattes version found was:  v3.5.7
+ZIP file /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+
+App Name: tree_recon
+The lattes version found was:  v1.4.7
+The lattes version found was:  v1.4.7
+ZIP file /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+
+App Name: bs_tools
+The lattes version found was:  v0.1.9
+The lattes version found was:  v0.1.9
+ZIP file /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+
+App Name: masai
+The lattes version found was:  v0.7.2
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+
+App Name: pair_align
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+ZIP file /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+
+App Name: sgip
+The lattes version found was:  v1.4.7
+The lattes version found was:  v1.4.7
+ZIP file /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+
+App Name: sak
+The lattes version found was:  v0.4.7
+The lattes version found was:  v0.4.7
+ZIP file /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+The lattes version found was:  v0.2.2
+ZIP file /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.tar.bz2 to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.tar.bz2 to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/slimm-0.2.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/slimm-0.2.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: yara
+
+App Name: yara
+The lattes version found was:  v0.9.10
+The lattes version found was:  v0.9.10
+ZIP file /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+
+App Name: dfi
+The lattes version found was:  v2.1.9
+The lattes version found was:  v2.1.9
+ZIP file /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+
+App Name: mason2
+The lattes version found was:  v2.0.8
+The lattes version found was:  v2.0.8
+ZIP file /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+
+App Name: rabema
+The lattes version found was:  v1.2.9
+The lattes version found was:  v1.2.9
+ZIP file /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.7
+The lattes version found was:  v0.3.7
+ZIP file /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+
+App Name: snp_store
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+ZIP file /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+
+App Name: fiona
+The lattes version found was:  v0.2.9
+ZIP file /web/packages.seqan.de/htdocs//fiona/fiona-0.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+ZIP file /web/packages.seqan.de/htdocs//fiona/fiona-0.2.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fiona-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fiona-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: micro_razers
+
+App Name: micro_razers
+The lattes version found was:  v1.0.10
+ZIP file /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+ZIP file /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+
+App Name: samcat
+The lattes version found was:  v0.3.7
+ZIP file /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+ZIP file /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.7
+The lattes version found was:  v1.13.7
+ZIP file /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagentar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+
+App Name: splazers
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+ZIP file /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+ZIP file /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Linux-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip
+---------------------------------------------------
+
+---------------------------------------------------
+Zipping Linux-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Datei oder Verzeichnis nicht gefunden
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip . -i bin)
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+
+---------------------------------------------------
+Generating CTD files from Linux-x86_64 executables
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+
+---------------------------------------------------
+Generating CTD files from Linux-x86_64 executables
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/*: Datei oder Verzeichnis nicht gefunden
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/*: Datei oder Verzeichnis nicht gefunden
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//*.ctd
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//*.ctd
+
+===================================================
+Gathering Mac-x86_64 binaries
+===================================================
+
+===================================================
+Gathering Mac-x86_64 binaries
+===================================================
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64“ kann nicht angelegt werden: Der zugewiesene Plattenplatz (Quota) ist überschritten
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64“ kann nicht angelegt werden: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+
+App Name: alf
+App Name: alf
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+
+App Name: fx_tools
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+
+App Name: insegt
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+
+App Name: searchjoin
+The lattes version found was:  v0.5.7
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.5.7
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: stellar
+
+App Name: stellar
+The lattes version found was:  v1.4.10
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.4.10
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+
+App Name: gustaf
+The lattes version found was:  v1.0.9
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.0.9
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.9.3
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefundenmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-*/bin/*“ ist nicht möglich
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: ngs_roi
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.11
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.2.11
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+
+App Name: razers3
+The lattes version found was:  v3.5.7
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v3.5.7
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+
+App Name: tree_recon
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+
+App Name: bs_tools
+The lattes version found was:  v0.1.9
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.1.9
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+
+App Name: masai
+The lattes version found was:  v0.7.2
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+
+App Name: pair_align
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefundenmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+
+App Name: sgip
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+
+App Name: sak
+The lattes version found was:  v0.4.7
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.4.7
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.2.2
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/slimm-0.2.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/slimm-0.2.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: yara
+
+App Name: yara
+The lattes version found was:  v0.9.10
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.9.10
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+
+App Name: dfi
+The lattes version found was:  v2.1.9
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v2.1.9
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+
+App Name: mason2
+The lattes version found was:  v2.0.8
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v2.0.8
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+
+App Name: rabema
+The lattes version found was:  v1.2.9
+The lattes version found was:  v1.2.9
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.7
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+
+App Name: snp_store
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+
+App Name: fiona
+The lattes version found was:  v0.2.6
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.6-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.2.6
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.6-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fiona/fiona-0.2.6-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//fiona/fiona-0.2.6-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fiona-0.2.6-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fiona-0.2.6-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: micro_razers
+
+App Name: micro_razers
+The lattes version found was:  v1.0.10
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+
+App Name: samcat
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.7
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+The lattes version found was:  v1.13.7
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+
+App Name: splazers
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Mac-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Mac-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip
+---------------------------------------------------
+
+---------------------------------------------------
+Zipping Mac-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64: Datei oder Verzeichnis nicht gefunden
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip . -i bin)
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+
+===================================================
+Gathering Windows-x86_64 binaries
+===================================================
+
+===================================================
+Gathering Windows-x86_64 binaries
+===================================================
+mkdir: mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64“ kann nicht angelegt werdendas Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64“ kann nicht angelegt werden: Der zugewiesene Plattenplatz (Quota) ist überschritten
+: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+
+App Name: alf
+App Name: alf
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/alf-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+
+App Name: fx_tools
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.2.9
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/fx_tools-0.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+
+App Name: insegt
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.1.9
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/insegt-1.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers2-2.5.1-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+
+App Name: searchjoin
+The lattes version found was:  v0.5.7
+The lattes version found was:  v0.5.7
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/searchjoin-0.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqcons-0.23.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: stellar
+
+App Name: stellar
+The lattes version found was:  v1.4.10
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.4.10
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/stellar-1.4.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+
+App Name: gustaf
+The lattes version found was:  v1.0.9
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.0.9
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/gustaf-1.0.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+
+App Name: lambda
+Nothing found for Windows-x86_64. The KNIME plugin for lambda will not work on Windows-x86_64
+
+App Name: ngs_roi
+Nothing found for Windows-x86_64. The KNIME plugin for lambda will not work on Windows-x86_64
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.11
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.2.11
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.11-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/ngs_roi-0.2.11-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+
+App Name: razers3
+The lattes version found was:  v3.5.7
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v3.5.7
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers3-3.5.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+
+App Name: tree_recon
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/tree_recon-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+
+App Name: bs_tools
+The lattes version found was:  v0.1.9
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.1.9
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/bs_tools-0.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+
+App Name: masai
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/masai-0.7.2-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+
+App Name: pair_align
+The lattes version found was:  v1.3.7
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/pair_align-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_flexbar-1.0.4-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+
+App Name: sgip
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.4.7
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sgip-1.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+
+App Name: sak
+The lattes version found was:  v0.4.7
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.4.7
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sak-0.4.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+
+App Name: slimm
+Nothing found for Windows-x86_64. The KNIME plugin for slimm will not work on Windows-x86_64
+Nothing found for Windows-x86_64. The KNIME plugin for slimm will not work on Windows-x86_64
+
+App Name: yara
+
+App Name: yara
+The lattes version found was:  v0.9.10
+The lattes version found was:  v0.9.10
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/yara-0.9.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+
+App Name: dfi
+The lattes version found was:  v2.1.9
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v2.1.9
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/dfi-2.1.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+
+App Name: mason2
+The lattes version found was:  v2.0.8
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v2.0.8
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglichder Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/mason2-2.0.8-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+
+App Name: rabema
+The lattes version found was:  v1.2.9
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.2.9
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/rabema-1.2.9-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sam2matrix-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+
+App Name: snp_store
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/snp_store-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+
+App Name: fiona
+Nothing found for Windows-x86_64. The KNIME plugin for fiona will not work on Windows-x86_64
+
+App Name: micro_razers
+Nothing found for Windows-x86_64. The KNIME plugin for fiona will not work on Windows-x86_64
+
+App Name: micro_razers
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/micro_razers-1.0.10-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+
+App Name: samcat
+The lattes version found was:  v0.3.7
+The lattes version found was:  v0.3.7
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/samcat-0.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.7
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.13.7
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_tcoffee-1.13.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+
+App Name: splazers
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Windows-x86_64.zip
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Disk quota exceeded
+mv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglichmv: der Aufruf von stat für „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/splazers-1.3.7-*/bin/*“ ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Windows-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Windows-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip . -i bin)
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+fatal: Unable to create '/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/.git/index.lock': Die Datei existiert bereits.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+Already up-to-date.
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+sed: couldn't close /buffer/ag_abi/knime_packaging/seqan//external_ngs_toolbox/workflow_plugin_dir/sed02DxjU: Der zugewiesene Plattenplatz (Quota) ist überschritten
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes /group/ag_abi/SeqAn/knime_packaging
+
+===================================================
+            Building External NGS plugins!....
+===================================================
+Buildfile: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+sed: couldn't close /buffer/ag_abi/knime_packaging/seqan//external_ngs_toolbox/workflow_plugin_dir/sedmzbZSn: Der zugewiesene Plattenplatz (Quota) ist überschritten
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes /group/ag_abi/SeqAn/knime_packaging
+
+===================================================
+            Building External NGS plugins!....
+===================================================
+
+clean:
+
+plugin.dir.condition:
+
+plugin.dir.check:
+
+load-custom-plugin-info:
+
+prepare:
+     [echo] plugin.dir: /buffer/ag_abi/knime_packaging/seqan//external_ngs_toolbox/workflow_plugin_dir
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-347+0200
+
+config.plugin.build:
+     [echo] Debug: true
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin/lib
+     [copy] Copying 4 files to /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin/lib
+Buildfile: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin/META-INF
+     [copy] Copying 1 file to /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin/META-INF
+
+config.plugin.classes.build:
+    [javac] Compiling 46 source files to /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin
+
+clean:
+
+plugin.dir.condition:
+
+plugin.dir.check:
+
+load-custom-plugin-info:
+
+prepare:
+     [echo] plugin.dir: /buffer/ag_abi/knime_packaging/seqan//external_ngs_toolbox/workflow_plugin_dir
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-762+0200
+
+config.plugin.build:
+     [echo] Debug: true
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin/lib
+     [copy] Copying 4 files to /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin/lib
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin/META-INF
+     [copy] Copying 1 file to /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin/META-INF
+
+config.plugin.classes.build:
+    [javac] Compiling 46 source files to /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin
+    [javac] /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/com.genericworkflownodes.knime.config/src/com/genericworkflownodes/knime/config/NodeConfiguration.java:172: warning: [deprecation] getXML() in INodeConfiguration has been deprecated
+    [javac]     public String getXML() {
+    [javac]                   ^
+    [javac] /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/com.genericworkflownodes.knime.config/src/com/genericworkflownodes/knime/config/NodeConfiguration.java:172: warning: [deprecation] getXML() in INodeConfiguration has been deprecated
+    [javac]     public String getXML() {
+    [javac]                   ^
+    [javac] 1 warning
+     [copy] Copying 51 files to /tmp/GKN-2017-07-31T11-51-26-347+0200/configPlugin
+      [zip] Building zip: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build/com.genericworkflownodes.knime.config_0.8.0.jar
+
+BUILD FAILED
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml:157: Problem creating zip: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+Total time: 1 second
+
+===================================================
+            Building SeqAn plugins!....
+===================================================
+    [javac] 1 warning
+     [copy] Copying 51 files to /tmp/GKN-2017-07-31T11-51-26-762+0200/configPlugin
+Buildfile: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml
+      [zip] Building zip: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build/com.genericworkflownodes.knime.config_0.8.0.jar
+
+BUILD FAILED
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml:157: Problem creating zip: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+Total time: 1 second
+
+===================================================
+            Building SeqAn plugins!....
+===================================================
+Buildfile: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml
+
+clean:
+
+plugin.dir.condition:
+
+plugin.dir.check:
+
+load-custom-plugin-info:
+
+prepare:
+     [echo] plugin.dir: /buffer/ag_abi/knime_packaging/seqan//plugin-source
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-429+0200
+
+config.plugin.build:
+     [echo] Debug: true
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin/lib
+     [copy] Copying 4 files to /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin/lib
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin/META-INF
+     [copy] Copying 1 file to /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin/META-INF
+
+config.plugin.classes.build:
+    [javac] Compiling 46 source files to /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin
+
+clean:
+
+plugin.dir.condition:
+
+plugin.dir.check:
+
+load-custom-plugin-info:
+
+prepare:
+     [echo] plugin.dir: /buffer/ag_abi/knime_packaging/seqan//plugin-source
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-737+0200
+
+config.plugin.build:
+     [echo] Debug: true
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin/lib
+     [copy] Copying 4 files to /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin/lib
+    [mkdir] Created dir: /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin/META-INF
+     [copy] Copying 1 file to /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin/META-INF
+
+config.plugin.classes.build:
+    [javac] Compiling 46 source files to /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin
+    [javac] /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/com.genericworkflownodes.knime.config/src/com/genericworkflownodes/knime/config/NodeConfiguration.java:172: warning: [deprecation] getXML() in INodeConfiguration has been deprecated
+    [javac]     public String getXML() {
+    [javac]                   ^
+    [javac] /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/com.genericworkflownodes.knime.config/src/com/genericworkflownodes/knime/config/NodeConfiguration.java:172: warning: [deprecation] getXML() in INodeConfiguration has been deprecated
+    [javac]     public String getXML() {
+    [javac]                   ^
+    [javac] 1 warning
+     [copy] Copying 51 files to /tmp/GKN-2017-07-31T11-51-28-429+0200/configPlugin
+      [zip] Building zip: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build/com.genericworkflownodes.knime.config_0.8.0.jar
+
+BUILD FAILED
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml:157: Problem creating zip: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+Total time: 1 second
+/group/ag_abi/SeqAn/knime_packaging
+/buffer/ag_abi/knime_packaging/seqan/external_ngs_toolbox /group/ag_abi/SeqAn/knime_packaging
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+/group/ag_abi/SeqAn/knime_packaging
+sending incremental file list
+    [javac] 1 warning
+     [copy] Copying 51 files to /tmp/GKN-2017-07-31T11-51-28-737+0200/configPlugin
+      [zip] Building zip: /buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build/com.genericworkflownodes.knime.config_0.8.0.jar
+
+BUILD FAILED
+/buffer/ag_abi/knime_packaging/seqan/GenericKnimeNodes/build.xml:157: Problem creating zip: Der zugewiesene Plattenplatz (Quota) ist überschritten
+
+Total time: 1 second
+/group/ag_abi/SeqAn/knime_packaging
+/buffer/ag_abi/knime_packaging/seqan/external_ngs_toolbox /group/ag_abi/SeqAn/knime_packaging
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+/group/ag_abi/SeqAn/knime_packaging
+sending incremental file list
+
+sent 21,571 bytes  received 154 bytes  43,450.00 bytes/sec
+total size is 366,844,349  speedup is 16,885.82
+
+sent 21,571 bytes  received 154 bytes  43,450.00 bytes/sec
+total size is 366,844,349  speedup is 16,885.82
+
+===================================================
+            Creating Feature Files!....
+===================================================
+
+===================================================
+            Creating Feature Files!....
+===================================================
+fatal: Unable to create '/buffer/ag_abi/knime_packaging/seqan/de.seqan.knime.gasic/.git/index.lock': Die Datei existiert bereits.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+Already up-to-date.
+/group/ag_abi/SeqAn/knime_packaging/create_feature_xml.sh: Zeile 26: dos2unix: Kommando nicht gefunden.
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+/group/ag_abi/SeqAn/knime_packaging/create_feature_xml.sh: Zeile 26: dos2unix: Kommando nicht gefunden.
+201405131712
+GASiC qualifier is bigger then seqan 201405131712 > 
+qualifier 201405131712
+
+===================================================
+            Creating Test Feature Files!....
+===================================================
+201405131712
+GASiC qualifier is bigger then seqan 201405131712 > 
+qualifier 201405131712
+
+===================================================
+            Creating Test Feature Files!....
+===================================================
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+/group/ag_abi/SeqAn/knime_packaging/create_test_feature_xml.sh: Zeile 27: dos2unix: Kommando nicht gefunden.
+fatal: Konnte neue Staging-Area-Datei nicht schreiben.
+Already up-to-date.
+/group/ag_abi/SeqAn/knime_packaging/create_test_feature_xml.sh: Zeile 27: dos2unix: Kommando nicht gefunden.
+201405131712
+GASiC qualifier is bigger then seqan 201405131712 > 
+qualifier 201405131712
+201405131712
+GASiC qualifier is bigger then seqan 201405131712 > 
+qualifier 201405131712

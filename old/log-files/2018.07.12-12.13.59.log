@@ -1,0 +1,782 @@
+
+===================================================
+Gathering Linux-x86_64 binaries
+===================================================
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64“ kann nicht angelegt werden: Keine Berechtigung
+
+App Name: alf
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/alf-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+ZIP file /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fx_tools-0.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+ZIP file /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/insegt-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers2-2.5.1-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+ZIP file /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/searchjoin-0.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqcons-0.23.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+ZIP file /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/stellar-1.4.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+The lattes version found was:  v1.0.10
+ZIP file /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/gustaf-1.0.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+ZIP file /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/lambda-1.9.3-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.12
+ZIP file /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/ngs_roi-0.2.12-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+The lattes version found was:  v3.5.8
+ZIP file /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/razers3-3.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+The lattes version found was:  v1.4.8
+ZIP file /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/tree_recon-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+The lattes version found was:  v0.1.10
+ZIP file /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bs_tools-0.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/masai-0.7.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/pair_align-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Linux-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_flexbar-1.0.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+The lattes version found was:  v1.4.8
+ZIP file /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sgip-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+The lattes version found was:  v0.4.8
+ZIP file /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sak-0.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+ZIP file /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Linux-x86_64.tar.bz2 to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/slimm-0.2.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: yara
+The lattes version found was:  v0.9.11
+ZIP file /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/yara-0.9.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+The lattes version found was:  v2.1.10
+ZIP file /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/dfi-2.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+The lattes version found was:  v2.0.9
+ZIP file /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/mason2-2.0.9-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+The lattes version found was:  v1.2.10
+ZIP file /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/rabema-1.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.8
+ZIP file /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/sam2matrix-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/snp_store-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+The lattes version found was:  v0.2.10
+ZIP file /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/fiona-0.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: micro_razers
+The lattes version found was:  v1.0.11
+ZIP file /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/micro_razers-1.0.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+The lattes version found was:  v0.3.8
+ZIP file /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/samcat-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.8
+ZIP file /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/seqan_tcoffee-1.13.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+The lattes version found was:  v1.3.8
+ZIP file /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Linux-x86_64.zip does not exist. Trying with different tarballs
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Linux-x86_64.tar.xz to /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/.
+tar: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Funktion open fehlgeschlagen: Datei oder Verzeichnis nicht gefunden
+tar: Error is not recoverable: exiting now
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/splazers-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Linux-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_lnx_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+
+---------------------------------------------------
+Generating CTD files from Linux-x86_64 executables
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 81: /buffer/ag_abi/knime_packaging/seqan//binaries/Linux-x86_64/bin/*: Datei oder Verzeichnis nicht gefunden
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/descriptors//*.ctd
+
+===================================================
+Gathering Mac-x86_64 binaries
+===================================================
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64“ kann nicht angelegt werden: Keine Berechtigung
+
+App Name: alf
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/alf-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fx_tools-0.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/insegt-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers2-2.5.1-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/searchjoin-0.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqcons-0.23.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/stellar-1.4.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/gustaf-1.0.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+The lattes version found was:  v1.9.3
+extracting /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//lambda/lambda-1.9.3-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/lambda-1.9.3-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.12
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/ngs_roi-0.2.12-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+The lattes version found was:  v3.5.8
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/razers3-3.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+The lattes version found was:  v1.4.8
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/tree_recon-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+The lattes version found was:  v0.1.10
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/bs_tools-0.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/masai-0.7.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+The lattes version found was:  v1.3.8
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/pair_align-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_flexbar-1.0.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+The lattes version found was:  v1.4.8
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sgip-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+The lattes version found was:  v0.4.8
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sak-0.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/slimm-0.2.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: yara
+The lattes version found was:  v0.9.11
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/yara-0.9.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+The lattes version found was:  v2.1.10
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/dfi-2.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+The lattes version found was:  v2.0.9
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/mason2-2.0.9-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+The lattes version found was:  v1.2.10
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/rabema-1.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.8
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/sam2matrix-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+The lattes version found was:  v1.3.8
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/snp_store-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+The lattes version found was:  v0.2.10
+extracting /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fiona/fiona-0.2.10-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/fiona-0.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: micro_razers
+The lattes version found was:  v1.0.11
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/micro_razers-1.0.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+The lattes version found was:  v0.3.8
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/samcat-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.8
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/seqan_tcoffee-1.13.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+The lattes version found was:  v1.3.8
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Mac-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Mac-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64/splazers-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Mac-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Mac-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_mac_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+
+===================================================
+Gathering Windows-x86_64 binaries
+===================================================
+mkdir: das Verzeichnis „/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64“ kann nicht angelegt werden: Keine Berechtigung
+
+App Name: alf
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//alf/alf-1.1.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/alf-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fx_tools
+The lattes version found was:  v0.2.10
+extracting /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//fx_tools/fx_tools-0.2.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/fx_tools-0.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: insegt
+The lattes version found was:  v1.1.10
+extracting /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//insegt/insegt-1.1.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/insegt-1.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers2
+The lattes version found was:  v2.5.1
+extracting /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers2/razers2-2.5.1-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers2-2.5.1-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: searchjoin
+The lattes version found was:  v0.5.8
+extracting /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//searchjoin/searchjoin-0.5.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/searchjoin-0.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqcons
+The lattes version found was:  v0.23.4
+extracting /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqcons/seqcons-0.23.4-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqcons-0.23.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: stellar
+The lattes version found was:  v1.4.11
+extracting /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//stellar/stellar-1.4.11-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/stellar-1.4.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: gustaf
+The lattes version found was:  v1.0.10
+extracting /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//gustaf/gustaf-1.0.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/gustaf-1.0.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: lambda
+Nothing found for Windows-x86_64. The KNIME plugin for lambda will not work on Windows-x86_64
+
+App Name: ngs_roi
+The lattes version found was:  v0.2.12
+extracting /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//ngs_roi/ngs_roi-0.2.12-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/ngs_roi-0.2.12-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: razers3
+The lattes version found was:  v3.5.8
+extracting /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//razers3/razers3-3.5.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/razers3-3.5.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: tree_recon
+The lattes version found was:  v1.4.8
+extracting /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//tree_recon/tree_recon-1.4.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/tree_recon-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: bs_tools
+The lattes version found was:  v0.1.9
+extracting /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//bs_tools/bs_tools-0.1.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/bs_tools-0.1.9-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: masai
+The lattes version found was:  v0.7.2
+extracting /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//masai/masai-0.7.2-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/masai-0.7.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: pair_align
+The lattes version found was:  v1.3.8
+extracting /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//pair_align/pair_align-1.3.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/pair_align-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_flexbar
+The lattes version found was:  v1.0.4
+extracting /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_flexbar/seqan_flexbar-1.0.4-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_flexbar-1.0.4-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sgip
+The lattes version found was:  v1.4.8
+extracting /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sgip/sgip-1.4.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sgip-1.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sak
+The lattes version found was:  v0.4.8
+extracting /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sak/sak-0.4.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sak-0.4.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: slimm
+The lattes version found was:  v0.2.2
+extracting /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//slimm/slimm-0.2.2-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/slimm-0.2.2-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: yara
+The lattes version found was:  v0.9.11
+extracting /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//yara/yara-0.9.11-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/yara-0.9.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: dfi
+The lattes version found was:  v2.1.10
+extracting /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//dfi/dfi-2.1.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/dfi-2.1.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: mason2
+The lattes version found was:  v2.0.9
+extracting /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//mason2/mason2-2.0.9-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/mason2-2.0.9-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: rabema
+The lattes version found was:  v1.2.10
+extracting /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//rabema/rabema-1.2.10-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/rabema-1.2.10-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: sam2matrix
+The lattes version found was:  v0.3.8
+extracting /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//sam2matrix/sam2matrix-0.3.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/sam2matrix-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: snp_store
+The lattes version found was:  v1.3.7
+extracting /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//snp_store/snp_store-1.3.7-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/snp_store-1.3.7-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: fiona
+Nothing found for Windows-x86_64. The KNIME plugin for fiona will not work on Windows-x86_64
+
+App Name: micro_razers
+The lattes version found was:  v1.0.11
+extracting /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//micro_razers/micro_razers-1.0.11-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/micro_razers-1.0.11-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: samcat
+The lattes version found was:  v0.3.8
+extracting /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//samcat/samcat-0.3.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/samcat-0.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: seqan_tcoffee
+The lattes version found was:  v1.13.8
+extracting /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//seqan_tcoffee/seqan_tcoffee-1.13.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/seqan_tcoffee-1.13.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+App Name: splazers
+The lattes version found was:  v1.3.8
+extracting /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Windows-x86_64.zip to /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/.
+Archive:  /web/packages.seqan.de/htdocs//splazers/splazers-1.3.8-Windows-x86_64.zip
+checkdir:  cannot create extraction directory: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64
+           Permission denied
+mv: der Aufruf von stat für '/buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64/splazers-1.3.8-*/bin/*' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+
+---------------------------------------------------
+Zipping Windows-x86_64 executables to:
+/buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip
+---------------------------------------------------
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 70: pushd: /buffer/ag_abi/knime_packaging/seqan//binaries/Windows-x86_64: Datei oder Verzeichnis nicht gefunden
+	zip warning: name not matched: bin
+
+zip error: Nothing to do! (try: zip -r /buffer/ag_abi/knime_packaging/seqan//plugin-source/payload/binaries_win_64.zip . -i bin)
+/group/ag_abi/SeqAn/knime_packaging/collect_binaries.sh: Zeile 72: popd: Der Verzeichnisstapel ist leer.
+Hinweis: Checke 'seqan-v2.4.0' aus.
+
+Sie befinden sich im Zustand eines 'lösgelösten HEAD'. Sie können sich
+umschauen, experimentelle Änderungen vornehmen und diese committen, und
+Sie können alle möglichen Commits, die Sie in diesem Zustand machen,
+ohne Auswirkungen auf irgendeinen Branch verwerfen, indem Sie einen
+weiteren Checkout durchführen.
+
+Wenn Sie einen neuen Branch erstellen möchten, um Ihre erstellten Commits
+zu behalten, können Sie das (jetzt oder später) durch einen weiteren Checkout
+mit der Option -b tun. Beispiel:
+
+  git checkout -b <neuer-Branchname>
+
+HEAD ist jetzt bei 584ae4fbf... Merge pull request #2265 from seqan/develop
+merge: origin/seqan-v2.4.0 - nichts was wir zusammenführen können
+
+===================================================
+            Building SeqAn 64Bit 
+===================================================
+rm: reguläre Datei (schreibgeschützt) '/buffer/ag_abi/knime_packaging/seqan//seqan-build/CMakeFiles/3.0.2/CMakeCXXCompiler.cmake' entfernen? rm: reguläre Datei (schreibgeschützt) '/buffer/ag_abi/knime_packaging/seqan//seqan-build/CMakeFiles/3.0.2/CMakeSystem.cmake' entfernen? rm: das Entfernen von '/buffer/ag_abi/knime_packaging/seqan//seqan-build/CMakeFiles/3.0.2' ist nicht möglich: Das Verzeichnis ist nicht leer

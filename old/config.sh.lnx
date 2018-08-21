@@ -1,0 +1,32 @@
+# config file for knime packaging builds
+
+WORKING_DIR=/group/ag_abi/SeqAn/knime_packaging/
+BUILD_DIR=/buffer/ag_abi/knime_packaging/seqan/
+PACKAGES_DIR=/web/packages.seqan.de/htdocs/
+
+GKN_SOURCE=${BUILD_DIR}/GenericKnimeNodes/
+GKN_DEFAULT_BRANCH=develop
+
+GASIC_SOURCE=${BUILD_DIR}/de.seqan.knime.gasic
+GASIC_DEFAULT_BRANCH=master
+
+SEQAN_SOURCE=${BUILD_DIR}/seqan
+SEQAN_DEFAULT_BRANCH=develop
+
+SEQAN_BUILD=${BUILD_DIR}/seqan-build
+PLUGIN_SOURCE_LOCAL=${BUILD_DIR}/plugin-source-linux
+PLUGIN_BUILD=${BUILD_DIR}/plugin-build
+PLUGIN_BINARIES=${BUILD_DIR}/binaries
+PLUGIN_CTDS=${BUILD_DIR}/plugin-source/descriptors/
+
+REMOTE_TARGET=/web/ftp.imp.fu-berlin.de/pub/knime_plugins/seqan_knime_package
+
+PLUGIN_CENTRAL_HOST=larix.imp.fu-berlin.de
+PLUGIN_CENTRAL_PATH=${BUILD_DIR}/plugin-source
+PLUGIN_CENTRAL=$PLUGIN_CENTRAL_HOST:$PLUGIN_CENTRAL_PATH
+
+CXX_COMPILER='/group/ag_abi/software/x86_64/gcc-6.2.0/bin/g++'
+
+# APPS="yara slimm"
+
+APPS=("alf fx_tools insegt razers2 searchjoin seqcons stellar gustaf lambda ngs_roi razers3 tree_recon bs_tools masai pair_align seqan_flexbar sgip sak slimm yara dfi mason2 rabema sam2matrix snp_store fiona micro_razers samcat seqan_tcoffee splazers")
