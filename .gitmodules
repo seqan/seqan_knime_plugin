@@ -1,0 +1,3 @@
+[submodule "submodule/plugin_generation"]
+	path = submodule/plugin_generation
+	url = https://github.com/genericworkflownodes/dynamicPluginGeneration.git
