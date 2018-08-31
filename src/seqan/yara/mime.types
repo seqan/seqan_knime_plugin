@@ -1,0 +1,4 @@
+application/x-sam sam sam.bgzf sam.gz sam.bz2
+application/x-bam bam
+application/x-index lf.drp lf.drs lf.drv lf.pst sa.ind sa.len sa.val txt.concat txt.limits txt.size
+application/x-yara rid.concat rid.limits

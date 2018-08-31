@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tool name="YaraMapper" version="0.9.11 [e165baf]" docurl="http://www.seqan.de" category="Read Mapping" >
+	<executableName>yara_mapper</executableName>
+	<description>Yara Mapper</description>
+	<manual>Yara - Yet Another Read Aligner.
+See http://www.seqan.de/projects/yara for more information.
+(c) Copyright 2011-2014 by Enrico Siragusa.
+(c) Copyright 2013 by NVIDIA Corporation.
+</manual>
+	<cli>
+		<clielement optionIdentifier="--version-check" isList="false">
+			<mapping referenceName="yara_mapper.version-check" />
+		</clielement>
+		<clielement optionIdentifier="--verbose" isList="false">
+			<mapping referenceName="yara_mapper.verbose" />
+		</clielement>
+		<clielement optionIdentifier="--very-verbose" isList="false">
+			<mapping referenceName="yara_mapper.very-verbose" />
+		</clielement>
+		<clielement optionIdentifier="--output-file" isList="false">
+			<mapping referenceName="yara_mapper.output-file" />
+		</clielement>
+		<clielement optionIdentifier="--output-format" isList="false">
+			<mapping referenceName="yara_mapper.output-format" />
+		</clielement>
+		<clielement optionIdentifier="--read-group" isList="false">
+			<mapping referenceName="yara_mapper.read-group" />
+		</clielement>
+		<clielement optionIdentifier="--secondary-alignments" isList="false">
+			<mapping referenceName="yara_mapper.secondary-alignments" />
+		</clielement>
+		<clielement optionIdentifier="--rabema-alignments" isList="false">
+			<mapping referenceName="yara_mapper.rabema-alignments" />
+		</clielement>
+		<clielement optionIdentifier="--error-rate" isList="false">
+			<mapping referenceName="yara_mapper.error-rate" />
+		</clielement>
+		<clielement optionIdentifier="--strata-rate" isList="false">
+			<mapping referenceName="yara_mapper.strata-rate" />
+		</clielement>
+		<clielement optionIdentifier="--sensitivity" isList="false">
+			<mapping referenceName="yara_mapper.sensitivity" />
+		</clielement>
+		<clielement optionIdentifier="--library-length" isList="false">
+			<mapping referenceName="yara_mapper.library-length" />
+		</clielement>
+		<clielement optionIdentifier="--library-deviation" isList="false">
+			<mapping referenceName="yara_mapper.library-deviation" />
+		</clielement>
+		<clielement optionIdentifier="--indel-rate" isList="false">
+			<mapping referenceName="yara_mapper.indel-rate" />
+		</clielement>
+		<clielement optionIdentifier="--no-indels" isList="false">
+			<mapping referenceName="yara_mapper.no-indels" />
+		</clielement>
+		<clielement optionIdentifier="--threads" isList="false">
+			<mapping referenceName="yara_mapper.threads" />
+		</clielement>
+		<!-- Following clielements are arguments. You should consider providing a help text to ease understanding. -->
+		<clielement optionIdentifier="" isList="false">
+			<mapping referenceName="yara_mapper.argument-0" />
+		</clielement>
+		<clielement optionIdentifier="" isList="true">
+			<mapping referenceName="yara_mapper.argument-1" />
+		</clielement>
+	</cli>
+	<PARAMETERS version="1.6.2" xsi:noNamespaceSchemaLocation="http://open-ms.sourceforge.net/schemas/Param_1_6_2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<NODE name="yara_mapper" description="Yara Mapper">
+			<ITEM name="version-check" value="1" type="string" description="Turn this option off to disable version update notifications of the application. " restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="verbose" value="false" type="string" description="Displays global statistics." restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="very-verbose" value="false" type="string" description="Displays extensive statistics for each batch of reads." restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="output-file" value="" type="output-file" description="Specify an output file. Default: write the file to standard output." supported_formats="*.bam,*.sam,*.sam.bgzf,*.sam.gz,*.sam.bz2" required="false" advanced="false" />
+			<ITEM name="output-format" value="sam" type="string" description="Specify an output format. Note: when specifying the option                                                             --output-file, the output format is taken from the filename                                                             extension." restrictions="bam,sam,sam.bgzf,sam.gz,sam.bz2" required="false" advanced="false" />
+			<ITEM name="read-group" value="none" type="string" description="Specify a read group for all records in the SAM/BAM file." required="false" advanced="false" />
+			<ITEM name="secondary-alignments" value="tag" type="string" description="Specify whether to output secondary alignments in                                                                     the XA tag of the primary alignment, as separate                                                                     secondary records, or to omit them." restrictions="tag,record,omit" required="false" advanced="false" />
+			<ITEM name="rabema-alignments" value="false" type="string" description="Output alignments compatible with the                                                                  Read Alignment BEnchMArk (RABEMA)." restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="error-rate" value="5" type="int" description="Consider alignments within this percentual number of errors.                                          Increase this threshold to increase the number of mapped reads.                                          Decrease this threshold to decrease the runtime." restrictions="0:10" required="false" advanced="false" />
+			<ITEM name="strata-rate" value="0" type="int" description="Consider suboptimal alignments within this percentual number                                       of errors from the optimal alignment. Increase this threshold to increase                                       the number of alternative alignments at the expense of runtime." restrictions="0:10" required="false" advanced="false" />
+			<ITEM name="sensitivity" value="high" type="string" description="Sensitivity with respect to edit distance.                                                           Full sensitivity guarantees to find all considered alignments                                                           but increases runtime, low sensitivity decreases runtime by                                                           breaking such guarantee." restrictions="low,high,full" required="false" advanced="false" />
+			<ITEM name="library-length" value="" type="int" description="Expected library length. Default: autodetected." restrictions="1:" required="false" advanced="false" />
+			<ITEM name="library-deviation" value="" type="int" description="Deviation from the expected library length.                                             Default: autodetected." restrictions="1:" required="false" advanced="false" />
+			<ITEM name="indel-rate" value="25" type="int" description="Rescue unaligned ends within this percentual number of indels." restrictions="0:50" required="false" advanced="false" />
+			<ITEM name="no-indels" value="false" type="string" description="Turn off the rescue of unaligned ends containing indels." restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="threads" value="8" type="int" description="Specify the number of threads to use." restrictions="1:2048" required="false" advanced="false" />
+			<ITEM name="argument-0" value="" type="input-prefix" description="An indexed reference genome." supported_formats="*.*" required="true" advanced="false" />
+			<ITEMLIST name="argument-1"  type="input-file" description="Either one single-end or two paired-end / mate-pair read files." supported_formats="*.fq,*.fq.bgzf,*.fq.gz,*.fq.bz2,*.fastq,*.fastq.bgzf,*.fastq.gz,*.fastq.bz2,*.fa,*.fa.bgzf,*.fa.gz,*.fa.bz2,*.fasta,*.fasta.bgzf,*.fasta.gz,*.fasta.bz2,*.faa,*.faa.bgzf,*.faa.gz,*.faa.bz2,*.ffn,*.ffn.bgzf,*.ffn.gz,*.ffn.bz2,*.fna,*.fna.bgzf,*.fna.gz,*.fna.bz2,*.frn,*.frn.bgzf,*.frn.gz,*.frn.bz2,*.embl,*.embl.bgzf,*.embl.gz,*.embl.bz2,*.gbk,*.gbk.bgzf,*.gbk.gz,*.gbk.bz2,*.raw,*.raw.bgzf,*.raw.gz,*.raw.bz2,*.sam,*.sam.bgzf,*.sam.gz,*.sam.bz2,*.bam" required="true" advanced="false" />
+		</NODE>
+	</PARAMETERS>
+</tool>

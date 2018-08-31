@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tool name="YaraIndexer" version="0.9.11 [e165baf]" docurl="http://www.seqan.de" category="Read Mapping" >
+	<executableName>yara_indexer</executableName>
+	<description>Yara Indexer</description>
+	<manual>Yara - Yet Another Read Aligner.
+See http://www.seqan.de/projects/yara for more information.
+(c) Copyright 2011-2014 by Enrico Siragusa.
+(c) Copyright 2013 by NVIDIA Corporation.
+</manual>
+	<cli>
+		<clielement optionIdentifier="--version-check" isList="false">
+			<mapping referenceName="yara_indexer.version-check" />
+		</clielement>
+		<clielement optionIdentifier="--verbose" isList="false">
+			<mapping referenceName="yara_indexer.verbose" />
+		</clielement>
+		<clielement optionIdentifier="--output-prefix" isList="false">
+			<mapping referenceName="yara_indexer.output-prefix" />
+		</clielement>
+		<clielement optionIdentifier="--tmp-dir" isList="false">
+			<mapping referenceName="yara_indexer.tmp-dir" />
+		</clielement>
+		<!-- Following clielements are arguments. You should consider providing a help text to ease understanding. -->
+		<clielement optionIdentifier="" isList="false">
+			<mapping referenceName="yara_indexer.argument-0" />
+		</clielement>
+	</cli>
+	<PARAMETERS version="1.6.2" xsi:noNamespaceSchemaLocation="http://open-ms.sourceforge.net/schemas/Param_1_6_2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<NODE name="yara_indexer" description="Yara Indexer">
+			<ITEM name="version-check" value="1" type="string" description="Turn this option off to disable version update notifications of the application. " restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="verbose" value="false" type="string" description="Displays verbose output." restrictions="true,false" required="false" advanced="false" />
+			<ITEM name="output-prefix" value="" type="output-prefix" description="Specify a filename prefix for the reference genome index.                                      Default: use the filename prefix of the reference genome." supported_formats="*.*" required="false" advanced="false" />
+			<ITEM name="tmp-dir" value="" type="string" description="Specify a temporary directory where to construct the index.                                      Default: use the output directory." required="false" advanced="false" />
+			<ITEM name="argument-0" value="" type="input-file" description="A reference genome file." supported_formats="*.fq,*.fq.bgzf,*.fq.gz,*.fq.bz2,*.fastq,*.fastq.bgzf,*.fastq.gz,*.fastq.bz2,*.fa,*.fa.bgzf,*.fa.gz,*.fa.bz2,*.fasta,*.fasta.bgzf,*.fasta.gz,*.fasta.bz2,*.faa,*.faa.bgzf,*.faa.gz,*.faa.bz2,*.ffn,*.ffn.bgzf,*.ffn.gz,*.ffn.bz2,*.fna,*.fna.bgzf,*.fna.gz,*.fna.bz2,*.frn,*.frn.bgzf,*.frn.gz,*.frn.bz2,*.embl,*.embl.bgzf,*.embl.gz,*.embl.bz2,*.gbk,*.gbk.bgzf,*.gbk.gz,*.gbk.bz2,*.raw,*.raw.bgzf,*.raw.gz,*.raw.bz2,*.sam,*.sam.bgzf,*.sam.gz,*.sam.bz2,*.bam" required="true" advanced="false" />
+		</NODE>
+	</PARAMETERS>
+</tool>
