@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DllRegistry
+Bundle-SymbolicName: de.seqan.gkn.dll_provider.macosx.x86_64
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: de.seqan.gkn.dll_provider;bundle-version="0.0.1"
+Automatic-Module-Name: de.seqan.gkn.knime.dll_registry.macosx.x86_64
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

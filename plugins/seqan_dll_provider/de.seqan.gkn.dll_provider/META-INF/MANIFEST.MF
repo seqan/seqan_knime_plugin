@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SeqAnDLLProvider
+Bundle-SymbolicName: de.seqan.gkn.dll_provider;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: de.seqan.gkn.dll_provider.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ com.genericworkflownodes.knime;bundle-version="0.8.100",
+ org.knime.core;bundle-version="[3.0.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Import-Package: org.knime.core.node
+Automatic-Module-Name: de.seqan.gkn.knime.dll_registry
