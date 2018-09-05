@@ -32,19 +32,9 @@
 # ============================================================================
 
 # Register the plugins
-set (PLUGIN_VERSION_MAJOR "1")
+set (PLUGIN_VERSION_MAJOR "3")
 set (PLUGIN_VERSION_MINOR "0")
-set (PLUGIN_VERSION_PATCH "0")
+set (PLUGIN_VERSION_PATCH "2")
 
-set (PLUGIN_DOMAIN "de.seqan")
-set (PLUGIN_CATEGORY "seqan")
-set (PLUGIN_CATEGORY_NAME "SeqAn")
-
-# First parse all plugins to be included.
-add_subdirectories()
-
-set (FEATURE_VERSION_MAJOR "${PLUGIN_VERSION_MAJOR}")
-set (FEATURE_VERSION_MINOR "${PLUGIN_VERSION_MINOR}")
-set (FEATURE_VERSION_PATCH "${PLUGIN_VERSION_PATCH}")
-
-add_feature("SeqAn" "de.seqan.feature" "description" "copyright" "license")
+# Register the plugin
+add_plugin ("yara")

@@ -31,25 +31,9 @@
 # DAMAGE.
 # ============================================================================
 
-cmake_minimum_required (VERSION 3.2)
-project (seqan_knime_packaging NONE)
+set (PLUGIN_DOMAIN "de.ngstoolbox")
+set (PLUGIN_CATEGORY "ngstoolbox")
+set (PLUGIN_CATEGORY_NAME "NgsToolbox")
 
-list (APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/../submodule/plugin_generation/cmake")
-message (STATUS "CMAKE_MODULE_PATH: ${CMAKE_MODULE_PATH}")
-
-# We need plugin generation
-include (generate_plugin)
-# We need feature generation.
-include (generate_feature)
-# We need update_site generation.
-include (generate_update_site)
-
-# Now we parse all features.
+# Now we parse all plugins added for the current feature.
 add_subdirectories()
-
-# Now we build the update_site
-set (UPDATE_SITE_VERSION_MAJOR "3")
-set (UPDATE_SITE_VERSION_MINOR "1")
-set (UPDATE_SITE_VERSION_PATCH "0")
-
-add_update_site("SeqAn" "de.seqan.update")

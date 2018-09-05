@@ -31,5 +31,32 @@
 # DAMAGE.
 # ============================================================================
 
-# Register the plugin
-add_plugin ("yara")
+set (PLUGIN_CATEGORY_GROUP "SeqAn")
+
+get_filename_component (plugin_build_subdir "${CMAKE_CURRENT_LIST_DIR}" NAME)
+
+set (plugin_build_dir_cache "${plugin_build_dir}")
+set (plugin_build_dir "${plugin_build_dir}/${plugin_build_subdir}")
+
+file (COPY ${CMAKE_SOURCE_DIR}/../plugins/seqan_dll_provider/ DESTINATION ${plugin_build_dir})
+
+set (PLUGIN_DEPENDENCY "de.seqan.gkn.dll_provider;bundle-version=\\\"0.0.1\\\"" CACHE INTERNAL "Adds dependecies to a generated GKN plugin" FORCE)
+set (PLUGIN_EXECUTOR "SeqAnToolExecutor" CACHE INTERNAL "Sets the tool executor for the plugin" FORCE)
+set (PLUGIN_DLL_HOST "de.seqan.gkn.dll_provider")
+
+# First parse all plugins to be included.
+add_subdirectories()
+
+set (FEATURE_VERSION_MAJOR "3")
+set (FEATURE_VERSION_MINOR "0")
+set (FEATURE_VERSION_PATCH "0")
+
+add_feature("SeqAn" "de.seqan.dynamic.feature" "description" "copyright" "license")
+
+set (plugin_build_dir "${plugin_build_dir_cache}")
+
+unset (plugin_build_dir_cache)
+unset (plugin_build_subdir)
+# Reset.
+set (PLUGIN_DEPENDENCY "" CACHE INTERNAL "Adds dependecies to a generated GKN plugin" FORCE)
+set(PLUGIN_EXECUTOR "LocalToolExecutor" CACHE INTERNAL "Sets the tool executor for the plugin" FORCE)
